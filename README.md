@@ -1,0 +1,3 @@
+# slither-pygame
+
+snake and apple game using basic pygame. everytime snake eat an apple the score will be incremented and if snake touch the boundary wall then he will loose...
